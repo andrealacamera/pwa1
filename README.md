@@ -1,24 +1,7 @@
 # pwa1
 
-## Project setup
-```
-npm install
-```
+First attempt to develop a ```Progressive Web App (PWA)```.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+More details are forecoming...
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+_Created on 2021-05-12_
