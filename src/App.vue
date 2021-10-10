@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to PWA1"/>
+  <HelloWorld msg="Welcome to PWA2"/>
 </template>
 
 <script>
